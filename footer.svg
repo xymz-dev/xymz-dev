@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180">
+  <defs>
+    <linearGradient id="fgbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#312E81">
+        <animate attributeName="stop-color" values="#312E81;#4C1D95;#312E81" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0F0A2E">
+        <animate attributeName="stop-color" values="#0F0A2E;#1E1B4B;#0F0A2E" dur="9s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="180" fill="url(#fgbg)"/>
+
+  <!-- gelombang di tepi atas footer -->
+  <path d="M0,40 C150,10 300,70 450,40 C600,10 750,70 900,40 C1050,10 1200,70 1200,40 L1200,0 L0,0 Z" fill="#8B5CF6" opacity="0.5">
+    <animateTransform attributeName="transform" type="translate" values="0,0;-40,0;0,0" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,60 C150,90 300,30 450,60 C600,90 750,30 900,60 C1050,90 1200,30 1200,60 L1200,0 L0,0 Z" fill="#6D28D9" opacity="0.6">
+    <animateTransform attributeName="transform" type="translate" values="0,0;40,0;0,0" dur="9s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- bintang kecil -->
+  <circle cx="100" cy="120" r="2" fill="#E9D5FF"><animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></circle>
+  <circle cx="330" cy="100" r="1.8" fill="#E9D5FF"><animate attributeName="opacity" values="0;1;0" dur="2.8s" begin="0.7s" repeatCount="indefinite"/></circle>
+  <circle cx="580" cy="130" r="2.2" fill="#E9D5FF"><animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="1.2s" repeatCount="indefinite"/></circle>
+  <circle cx="820" cy="105" r="1.8" fill="#E9D5FF"><animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="0.4s" repeatCount="indefinite"/></circle>
+  <circle cx="1080" cy="125" r="2" fill="#E9D5FF"><animate attributeName="opacity" values="0;1;0" dur="2.5s" begin="1.6s" repeatCount="indefinite"/></circle>
+</svg>
