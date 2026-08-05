@@ -1,24 +1,28 @@
 <!--
   ══════════════════════════════════════════════════════════════
-  README PROFIL GITHUB — xymz-dev (v2 · mewah edition ✨)
+  README PROFIL GITHUB — xymz-dev (v3 · full animation 🎬)
   ──────────────────────────────────────────────────────────────
+  📦 FILE ANIMASI YANG HARUS DI-UPLOAD KE REPO (folder utama/root):
+     • banner.svg   → header animasi (gradien gerak, bintang, partikel)
+     • divider.svg  → garis pemisah animasi (titik berjalan)
+     • footer.svg   → footer animasi (gelombang)
   ✏️ YANG PERLU KAMU GANTI:
      • Teks "[isi sendiri]" → ganti dengan milikmu
      • Link "your_*" di Connect With Me → ganti dengan akun aslimu
-  ⚠️ CARA UPDATE DI GITHUB:
-     Buka repo xymz-dev/xymz-dev → klik README.md → ikon pensil (edit)
-     → Ctrl+A (pilih semua) → paste isi file ini → Commit changes
+  ⚠️ CARA UPDATE:
+     1) Upload 3 file svg di atas: repo → Add file → Upload files → pilih 3 file → Commit
+     2) Ganti README: buka README.md → pensil ✏️ → select all → paste isi file ini → Commit
   ══════════════════════════════════════════════════════════════
 -->
 
-<!-- 🌊 HEADER WAVE (gradient + animasi) -->
+<!-- 🎬 HEADER ANIMASI (banner.svg) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:8B5CF6,100:1E1B4B&text=Halo!%20%F0%9F%91%8B&fontColor=FFFFFF&fontSize=30&fontAlignY=35&animation=twinkling" width="100%" alt="header wave" />
+  <img src="https://raw.githubusercontent.com/xymz-dev/xymz-dev/main/banner.svg" width="100%" alt="banner" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=600&color=CBA6F7&center=true&vCenter=true&width=620&height=60&lines=Halo%2C+saya+xymz+%F0%9F%91%8B;Hi+there%2C+I%27m+xymz+%F0%9F%91%8B;Python+%26+Web+Developer+%F0%9F%90%8D;Automation+%26+Bots+Enthusiast+%F0%9F%A4%96;Selamat+datang+di+profil+aku+%F0%9F%9A%80;Welcome+to+my+profile+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=700&color=CBA6F7&center=true&vCenter=true&width=520&height=50&lines=Python+Developer+%F0%9F%90%8D;Bot+Builder+%F0%9F%A4%96;Web+Developer+%F0%9F%8C%90;Automation+Enthusiast+%E2%9A%99%EF%B8%8F;Open+Source+Lover+%E2%9D%A4%EF%B8%8F;Selamat+Datang!+%F0%9F%9A%80" alt="Typing SVG" />
+</h2>
 
 <h3 align="center">Developer dari Indonesia 🇮🇩 · A developer from Indonesia 🇮🇩</h3>
 
@@ -29,7 +33,10 @@
   <img src="https://img.shields.io/badge/Arctic_Code_Vault-Contributor-%23cba6f7?style=flat-square" alt="Arctic Code Vault Contributor" />
 </p>
 
----
+<!-- 🎬 DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xymz-dev/xymz-dev/main/divider.svg" width="100%" alt="divider" />
+</p>
 
 ## 🙋 Tentang Saya · About Me
 
@@ -113,7 +120,10 @@ Hi! I'm **xymz**, a developer from Indonesia who loves tinkering with **Python**
   <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/xymz-dev/xymz-dev/output/github-contribution-grid-snake.svg" />
 </picture>
 
----
+<!-- 🎬 DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xymz-dev/xymz-dev/main/divider.svg" width="100%" alt="divider" />
+</p>
 
 ## 📌 Project Pilihan · Featured Projects
 
@@ -126,7 +136,10 @@ Hi! I'm **xymz**, a developer from Indonesia who loves tinkering with **Python**
 
 <!-- ✏️ Sesuaikan daftar project di atas dengan repo favorit kamu -->
 
----
+<!-- 🎬 DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xymz-dev/xymz-dev/main/divider.svg" width="100%" alt="divider" />
+</p>
 
 ## 🌐 Connect With Me
 
@@ -147,7 +160,7 @@ Hi! I'm **xymz**, a developer from Indonesia who loves tinkering with **Python**
 
 <p align="center"><i>Dibuat dengan 💜 · Made with 💜 — xymz</i></p>
 
-<!-- 🌊 FOOTER WAVE (gradient) -->
+<!-- 🎬 FOOTER ANIMASI (footer.svg) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1E1B4B,100:8B5CF6&section=footer" width="100%" alt="footer wave" />
+  <img src="https://raw.githubusercontent.com/xymz-dev/xymz-dev/main/footer.svg" width="100%" alt="footer" />
 </p>
