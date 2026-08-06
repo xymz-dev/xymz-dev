@@ -1,22 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180">
   <defs>
     <linearGradient id="fgbg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#312E81">
-        <animate attributeName="stop-color" values="#312E81;#4C1D95;#312E81" dur="9s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#0F0A2E">
-        <animate attributeName="stop-color" values="#0F0A2E;#1E1B4B;#0F0A2E" dur="9s" repeatCount="indefinite"/>
-      </stop>
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#050308"/>
     </linearGradient>
   </defs>
 
+  <!-- background hitam -->
   <rect width="1200" height="180" fill="url(#fgbg)"/>
 
   <!-- gelombang di tepi atas footer -->
-  <path d="M0,40 C150,10 300,70 450,40 C600,10 750,70 900,40 C1050,10 1200,70 1200,40 L1200,0 L0,0 Z" fill="#8B5CF6" opacity="0.5">
+  <path d="M0,40 C150,10 300,70 450,40 C600,10 750,70 900,40 C1050,10 1200,70 1200,40 L1200,0 L0,0 Z" fill="#7C3AED" opacity="0.35">
     <animateTransform attributeName="transform" type="translate" values="0,0;-40,0;0,0" dur="7s" repeatCount="indefinite"/>
   </path>
-  <path d="M0,60 C150,90 300,30 450,60 C600,90 750,30 900,60 C1050,90 1200,30 1200,60 L1200,0 L0,0 Z" fill="#6D28D9" opacity="0.6">
+  <path d="M0,60 C150,90 300,30 450,60 C600,90 750,30 900,60 C1050,90 1200,30 1200,60 L1200,0 L0,0 Z" fill="#4C1D95" opacity="0.5">
     <animateTransform attributeName="transform" type="translate" values="0,0;40,0;0,0" dur="9s" repeatCount="indefinite"/>
   </path>
 

@@ -1,13 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 60">
   <defs>
     <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="0%" stop-color="#7C3AED"/>
       <stop offset="50%" stop-color="#22D3EE">
         <animate attributeName="stop-color" values="#22D3EE;#A78BFA;#22D3EE" dur="3s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
     </linearGradient>
   </defs>
+
+  <!-- latar hitam (biar nyatu sama tema) -->
+  <rect x="0" y="0" width="1200" height="60" fill="#000000"/>
 
   <rect x="120" y="28" width="960" height="4" rx="2" fill="url(#bar)"/>
 
